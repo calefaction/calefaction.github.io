@@ -1,3 +1,3 @@
 # Projects
 
-* (Fuel Decider)[https://calefaction.github.io/fuel-decider/]
+* [Fuel Decider](https://calefaction.github.io/fuel-decider/)
